@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "local",
-    "slug": "local",
+    "name": "MyTasks Local",
+    "slug": "mytasks-local",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
